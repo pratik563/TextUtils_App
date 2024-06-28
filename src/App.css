@@ -1,0 +1,43 @@
+#root {
+  color: white;
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.bigcontainer{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+#form-box{
+  resize: none;
+  background-color: rgb(170, 170, 170);
+}
+
+body{
+  background-color: #00192d;
+}
+
+.navbar{
+  background-color: rgb(170, 170, 170);
+  font-weight: 600;
+}
+
+h1{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+h2{
+  display: block;
+  color: orange;
+  margin-bottom: 9px;
+}
+
+p{
+  font-size: 18px;
+  display: inline;
+  color: aqua;
+}
