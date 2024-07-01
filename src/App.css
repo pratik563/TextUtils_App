@@ -13,6 +13,7 @@
 
 #form-box{
   resize: none;
+  overflow-x: hidden;
   background-color: rgb(170, 170, 170);
 }
 
